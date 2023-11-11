@@ -5,7 +5,7 @@
 - Branch
 - Conflict 해결 방법 + Merge
 
-<code>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,4 +18,3 @@
     <p>VSCode에서 git 사용하장</p>
 </body>
 </html>
-</code>
