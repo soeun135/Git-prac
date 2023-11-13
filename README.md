@@ -15,7 +15,7 @@
     <title>이건 새로운 기능</title>
 </head>
 <body>
-    <p>VSCode에서 git 사용하장</p>
+    <p>VSCode에서 git 사용하장 !!</p>
 </body>
 </html>
 </code>
